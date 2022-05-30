@@ -4,4 +4,6 @@ console.log("hello git");
 console.log("parsa")
 console.log('bro')
 alert('hiby')
+console.log('bro')
+alert('hiby')
 
